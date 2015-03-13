@@ -1,0 +1,104 @@
+body {
+  background-image: url('../images/lightpaperfibers_2X.png');
+  line-height: 1.7;
+}
+
+p {
+  font-family: 'Source Code Pro', sans-serif;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+blockquote, blockquote p {
+  margin: 0;
+}
+
+li {
+  font-family: 'Source Code Pro', sans-serif;
+  font-size: 0.8em;
+}
+
+header {
+  width: 60%;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.pink-well {
+  -webkit-box-shadow: inset 0px 0px 209px 0px rgba(248,246,244,1);
+  -moz-box-shadow: inset 0px 0px 209px 0px rgba(248,246,244,1);
+  box-shadow: inset 0px 0px 209px 0px rgba(248,246,244,1);
+  background-image: none;
+}
+
+.site-wrapper {
+  width: 60%; 
+  padding-left: 10%; 
+  padding-right: 10%;
+  margin: 0 auto;
+  background-color: white;
+  z-index: 10;
+}
+
+.post-header {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.blog-title {
+  font-size: 6em;
+}
+
+.blog-title a:hover {
+  text-decoration: none;
+}
+
+ul.nav-menu {
+  list-style-type: none;
+  padding-left: 0;
+  padding-top: 5px;
+  margin-bottom: 0;
+}
+
+ul.nav-menu li {
+  display: inline;
+}
+
+ul.nav-menu li a {
+  color: black;
+  text-decoration: none;
+}
+
+ul.nav-menu li a:hover {
+  text-decoration: none;
+  color: black;
+}
+
+.header-padding {
+  height: 55px;
+  clear: both;
+}
+
+.post-title {
+  margin-top: 50px; 
+  margin-bottom: 50px;
+}
+
+.post-meta {
+  font-size: 0.8em;
+  margin-bottom: 40px;
+}
+
+.meta-on-index {
+  margin-bottom: 100px;
+}
+
+.post-meta a {
+  color: #2A6496;
+  font-weight: bold;
+}
+
+.title-on-show {
+  margin-bottom: 10px;
+  font-size: 3em;
+}
